@@ -1,0 +1,743 @@
+2019-04-17 07:34:33: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2019-04-17 07:34:33: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 07:34:34: WARNING: NODE_APP_INSTANCE value of '1' did not match any instance config file names.
+2019-04-17 07:34:34: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 07:34:34: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-04-17 07:34:34: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 07:34:34: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-04-17 07:34:34: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 07:34:58: { ReferenceError: publicRuntimeConfig is not defined
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:108:133)
+    at __webpack_require__ (webpack:/webpack/bootstrap af715e0b33f0e1ca7401:21:0)
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:674:69)
+    at __webpack_require__ (webpack:/webpack/bootstrap af715e0b33f0e1ca7401:21:0)
+    at Object.module.exports.Object.defineProperty.value (libs/withRoot.js:9:0)
+    at __webpack_require__ (webpack:/webpack/bootstrap af715e0b33f0e1ca7401:21:0)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:70:18
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:73:10)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at _callee$ (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\dist\server\require.js:87:46)
+    at tryCatch (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:12:30)
+    at _next (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:9)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:34:7 sourceMapsApplied: true }
+2019-04-17 07:37:21: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2019-04-17 07:37:21: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 07:37:21: WARNING: NODE_APP_INSTANCE value of '1' did not match any instance config file names.
+2019-04-17 07:37:21: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 07:37:21: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-04-17 07:37:21: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 07:37:21: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-04-17 07:37:21: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 07:37:58: { ReferenceError: publicRuntimeConfig is not defined
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:108:133)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:674:69)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at Object.module.exports.Object.defineProperty.value (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:657:18)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:70:18
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:73:10)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at _callee$ (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\dist\server\require.js:87:46)
+    at tryCatch (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:12:30)
+    at _next (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:9)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:34:7 sourceMapsApplied: true }
+2019-04-17 07:38:01: { ReferenceError: publicRuntimeConfig is not defined
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:108:133)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:674:69)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at Object.module.exports.Object.defineProperty.value (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:657:18)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:70:18
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:73:10)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at _callee$ (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\dist\server\require.js:87:46)
+    at tryCatch (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:12:30)
+    at _next (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:9)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:34:7 sourceMapsApplied: true }
+2019-04-17 07:38:52: { ReferenceError: publicRuntimeConfig is not defined
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:108:133)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:674:69)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at Object.module.exports.Object.defineProperty.value (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:657:18)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:70:18
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:73:10)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at _callee$ (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\dist\server\require.js:87:46)
+    at tryCatch (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:12:30)
+    at _next (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:9)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:34:7 sourceMapsApplied: true }
+2019-04-17 07:41:04: { ReferenceError: publicRuntimeConfig is not defined
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:108:133)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:674:69)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at Object.module.exports.Object.defineProperty.value (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:657:18)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:70:18
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:73:10)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at _callee$ (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\dist\server\require.js:87:46)
+    at tryCatch (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:12:30)
+    at _next (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:9)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:34:7 sourceMapsApplied: true }
+2019-04-17 07:44:04: { ReferenceError: publicRuntimeConfig is not defined
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:108:133)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:674:69)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at Object.module.exports.Object.defineProperty.value (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:657:18)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:70:18
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:73:10)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at _callee$ (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\dist\server\require.js:87:46)
+    at tryCatch (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:12:30)
+    at _next (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:9)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:34:7 sourceMapsApplied: true }
+2019-04-17 07:58:41: WARNING: NODE_APP_INSTANCE value of '1' did not match any instance config file names.
+2019-04-17 07:58:41: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2019-04-17 07:58:41: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 07:58:41: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 07:58:41: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-04-17 07:58:41: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 07:58:41: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-04-17 07:58:41: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:01:36: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2019-04-17 08:01:36: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:01:36: WARNING: NODE_APP_INSTANCE value of '1' did not match any instance config file names.
+2019-04-17 08:01:36: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:01:36: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-04-17 08:01:36: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:01:36: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-04-17 08:01:36: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:13:47: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2019-04-17 08:13:47: WARNING: NODE_APP_INSTANCE value of '1' did not match any instance config file names.
+2019-04-17 08:13:47: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:13:47: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:13:48: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-04-17 08:13:48: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:13:48: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-04-17 08:13:48: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:18:51: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2019-04-17 08:18:51: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:18:51: WARNING: NODE_APP_INSTANCE value of '1' did not match any instance config file names.
+2019-04-17 08:18:51: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:18:52: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-04-17 08:18:52: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:18:52: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-04-17 08:18:52: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:23:24: WARNING: NODE_APP_INSTANCE value of '1' did not match any instance config file names.
+2019-04-17 08:23:24: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:23:24: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2019-04-17 08:23:24: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:23:25: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-04-17 08:23:25: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:23:25: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-04-17 08:23:25: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:27:18: WARNING: NODE_APP_INSTANCE value of '1' did not match any instance config file names.
+2019-04-17 08:27:19: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:27:19: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2019-04-17 08:27:19: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:27:19: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-04-17 08:27:19: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:27:19: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-04-17 08:27:19: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:41:35: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2019-04-17 08:41:35: WARNING: NODE_APP_INSTANCE value of '1' did not match any instance config file names.
+2019-04-17 08:41:35: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:41:35: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:41:35: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-04-17 08:41:35: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-04-17 08:41:35: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:41:35: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:41:43: { ReferenceError: HDWalletProvider is not defined
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\projects\create.js:610:25)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\projects\create.js:23:31)
+    at Object.module.exports.Object.defineProperty.value (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\projects\create.js:561:18)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\projects\create.js:23:31)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\projects\create.js:70:18
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\projects\create.js:73:10)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at _callee$ (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\dist\server\require.js:87:46)
+    at tryCatch (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:12:30)
+    at _next (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:9)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:34:7
+    at new Promise (<anonymous>)
+    at new F (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\core-js\library\modules\_export.js:36:28) sourceMapsApplied: true }
+2019-04-17 08:41:48: { ReferenceError: HDWalletProvider is not defined
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\projects\create.js:610:25)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\projects\create.js:23:31)
+    at Object.module.exports.Object.defineProperty.value (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\projects\create.js:561:18)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\projects\create.js:23:31)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\projects\create.js:70:18
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\projects\create.js:73:10)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at _callee$ (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\dist\server\require.js:87:46)
+    at tryCatch (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:12:30)
+    at _next (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:9)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:34:7
+    at new Promise (<anonymous>)
+    at new F (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\core-js\library\modules\_export.js:36:28) sourceMapsApplied: true }
+2019-04-17 08:46:25: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2019-04-17 08:46:25: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:46:25: WARNING: NODE_APP_INSTANCE value of '1' did not match any instance config file names.
+2019-04-17 08:46:25: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:46:25: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-04-17 08:46:25: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:46:25: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-04-17 08:46:25: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:46:37: { ReferenceError: HDWalletProvider is not defined
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:722:25)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at Object.module.exports.Object.defineProperty.value (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:663:18)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:70:18
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:73:10)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at _callee$ (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\dist\server\require.js:87:46)
+    at tryCatch (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:12:30)
+    at _next (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:9)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:34:7
+    at new Promise (<anonymous>)
+    at new F (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\core-js\library\modules\_export.js:36:28) sourceMapsApplied: true }
+2019-04-17 08:46:41: { ReferenceError: HDWalletProvider is not defined
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:722:25)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at Object.module.exports.Object.defineProperty.value (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:663:18)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:70:18
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:73:10)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at _callee$ (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\dist\server\require.js:87:46)
+    at tryCatch (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:12:30)
+    at _next (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:9)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:34:7
+    at new Promise (<anonymous>)
+    at new F (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\core-js\library\modules\_export.js:36:28) sourceMapsApplied: true }
+2019-04-17 08:46:44: { ReferenceError: HDWalletProvider is not defined
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:722:25)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at Object.module.exports.Object.defineProperty.value (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:663:18)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:70:18
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:73:10)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at _callee$ (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\dist\server\require.js:87:46)
+    at tryCatch (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:12:30)
+    at _next (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:9)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:34:7
+    at new Promise (<anonymous>)
+    at new F (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\core-js\library\modules\_export.js:36:28) sourceMapsApplied: true }
+2019-04-17 08:47:13: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2019-04-17 08:47:13: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:47:13: WARNING: NODE_APP_INSTANCE value of '1' did not match any instance config file names.
+2019-04-17 08:47:13: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:47:13: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-04-17 08:47:13: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:47:13: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-04-17 08:47:13: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:47:19: { ReferenceError: HDWalletProvider is not defined
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:722:25)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at Object.module.exports.Object.defineProperty.value (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:663:18)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:70:18
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:73:10)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at _callee$ (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\dist\server\require.js:87:46)
+    at tryCatch (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:12:30)
+    at _next (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:9)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:34:7
+    at new Promise (<anonymous>)
+    at new F (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\core-js\library\modules\_export.js:36:28) sourceMapsApplied: true }
+2019-04-17 08:48:00: { ReferenceError: HDWalletProvider is not defined
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:722:25)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at Object.module.exports.Object.defineProperty.value (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:663:18)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:70:18
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:73:10)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at _callee$ (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\dist\server\require.js:87:46)
+    at tryCatch (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:12:30)
+    at _next (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:9)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:34:7
+    at new Promise (<anonymous>)
+    at new F (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\core-js\library\modules\_export.js:36:28) sourceMapsApplied: true }
+2019-04-17 08:48:38: { ReferenceError: HDWalletProvider is not defined
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:722:25)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at Object.module.exports.Object.defineProperty.value (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:663:18)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:70:18
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:73:10)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at _callee$ (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\dist\server\require.js:87:46)
+    at tryCatch (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:12:30)
+    at _next (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:9)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:34:7
+    at new Promise (<anonymous>)
+    at new F (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\core-js\library\modules\_export.js:36:28) sourceMapsApplied: true }
+2019-04-17 08:48:47: { ReferenceError: HDWalletProvider is not defined
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:722:25)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at Object.module.exports.Object.defineProperty.value (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:663:18)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:70:18
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:73:10)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at _callee$ (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\dist\server\require.js:87:46)
+    at tryCatch (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:12:30)
+    at _next (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:9)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:34:7
+    at new Promise (<anonymous>)
+    at new F (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\core-js\library\modules\_export.js:36:28) sourceMapsApplied: true }
+2019-04-17 08:49:30: { ReferenceError: HDWalletProvider is not defined
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:722:25)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at Object.module.exports.Object.defineProperty.value (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:663:18)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:70:18
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:73:10)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at _callee$ (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\dist\server\require.js:87:46)
+    at tryCatch (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:12:30)
+    at _next (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:9)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:34:7
+    at new Promise (<anonymous>)
+    at new F (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\core-js\library\modules\_export.js:36:28) sourceMapsApplied: true }
+2019-04-17 08:50:46: WARNING: NODE_APP_INSTANCE value of '1' did not match any instance config file names.
+2019-04-17 08:50:46: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:50:46: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2019-04-17 08:50:46: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:50:46: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-04-17 08:50:46: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:50:46: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-04-17 08:50:46: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:51:46: { ReferenceError: HDWalletProvider is not defined
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:722:25)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at Object.module.exports.Object.defineProperty.value (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:663:18)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:70:18
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:73:10)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at _callee$ (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\dist\server\require.js:87:46)
+    at tryCatch (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:12:30)
+    at _next (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:9)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:34:7
+    at new Promise (<anonymous>)
+    at new F (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\core-js\library\modules\_export.js:36:28) sourceMapsApplied: true }
+2019-04-17 08:52:15: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-04-17 08:52:15: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:52:22: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-04-17 08:52:22: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 08:52:24: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-04-17 08:52:24: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 09:01:29: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2019-04-17 09:01:29: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 09:01:29: WARNING: NODE_APP_INSTANCE value of '1' did not match any instance config file names.
+2019-04-17 09:01:29: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 09:01:30: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-04-17 09:01:30: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 09:01:30: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-04-17 09:01:30: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-04-17 09:02:01: { ReferenceError: HDWalletProvider is not defined
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:722:25)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at Object.module.exports.Object.defineProperty.value (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:663:18)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:70:18
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:73:10)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at _callee$ (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\dist\server\require.js:87:46)
+    at tryCatch (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:12:30)
+    at _next (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:9)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:34:7
+    at new Promise (<anonymous>)
+    at new F (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\core-js\library\modules\_export.js:36:28) sourceMapsApplied: true }
+2019-04-17 09:03:01: { ReferenceError: HDWalletProvider is not defined
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:722:25)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at Object.module.exports.Object.defineProperty.value (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:663:18)
+    at __webpack_require__ (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:23:31)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:70:18
+    at Object.<anonymous> (C:\Users\75253\Workspace\ethereum-contract-workflow\.next\dist\bundles\pages\index.js:73:10)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at _callee$ (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\dist\server\require.js:87:46)
+    at tryCatch (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:12:30)
+    at _next (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:9)
+    at C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:34:7
+    at new Promise (<anonymous>)
+    at new F (C:\Users\75253\Workspace\ethereum-contract-workflow\node_modules\core-js\library\modules\_export.js:36:28) sourceMapsApplied: true }
+2019-04-17 09:03:56: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-04-17 09:03:56: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-05-30 15:10:14: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2019-05-30 15:10:14: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-05-30 15:10:15: WARNING: NODE_APP_INSTANCE value of '1' did not match any instance config file names.
+2019-05-30 15:10:15: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-05-30 15:10:15: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-05-30 15:10:15: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-05-30 15:10:15: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-05-30 15:10:15: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 14:14:12: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2019-07-13 14:14:12: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 14:14:12: WARNING: NODE_APP_INSTANCE value of '1' did not match any instance config file names.
+2019-07-13 14:14:12: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 14:14:12: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-07-13 14:14:12: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 14:14:12: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-07-13 14:14:12: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 14:35:29: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2019-07-13 14:35:29: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 14:35:29: WARNING: NODE_APP_INSTANCE value of '1' did not match any instance config file names.
+2019-07-13 14:35:29: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 14:35:29: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-07-13 14:35:29: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 14:35:30: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-07-13 14:35:30: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 14:50:05: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2019-07-13 14:50:05: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 14:50:05: WARNING: NODE_APP_INSTANCE value of '1' did not match any instance config file names.
+2019-07-13 14:50:05: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 14:50:06: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-07-13 14:50:06: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 14:50:06: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-07-13 14:50:06: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 14:50:20: { TypeError: Cannot read property 'length' of undefined
+    at ProjectDetail.renderProcesses (pages/projects/detail.js:212:0)
+    at ProjectDetail.render (C:\Users\75253\Workspace\hackthon2019\.next\dist\bundles\pages\projects\detail.js:1119:56)
+    at d (C:\Users\75253\Workspace\hackthon2019\node_modules\react-dom\cjs\react-dom-server.node.production.min.js:28:211)
+    at wa (C:\Users\75253\Workspace\hackthon2019\node_modules\react-dom\cjs\react-dom-server.node.production.min.js:28:493)
+    at a.render (C:\Users\75253\Workspace\hackthon2019\node_modules\react-dom\cjs\react-dom-server.node.production.min.js:33:18)
+    at a.read (C:\Users\75253\Workspace\hackthon2019\node_modules\react-dom\cjs\react-dom-server.node.production.min.js:32:243)
+    at renderToString (C:\Users\75253\Workspace\hackthon2019\node_modules\react-dom\cjs\react-dom-server.node.production.min.js:43:6)
+    at Object.renderPage (C:\Users\75253\Workspace\hackthon2019\node_modules\next\dist\server\render.js:277:26)
+    at Function.module.exports.MyDocument.getInitialProps (pages/_document.js:54:0)
+    at _callee$ (C:\Users\75253\Workspace\hackthon2019\node_modules\next\dist\lib\utils.js:111:30)
+    at tryCatch (C:\Users\75253\Workspace\hackthon2019\node_modules\next\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\75253\Workspace\hackthon2019\node_modules\next\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\75253\Workspace\hackthon2019\node_modules\next\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\75253\Workspace\hackthon2019\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:12:30)
+    at _next (C:\Users\75253\Workspace\hackthon2019\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:9)
+    at C:\Users\75253\Workspace\hackthon2019\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:34:7
+    at new Promise (<anonymous>)
+    at new F (C:\Users\75253\Workspace\hackthon2019\node_modules\core-js\library\modules\_export.js:36:28)
+    at C:\Users\75253\Workspace\hackthon2019\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:7:12
+    at loadGetInitialProps (C:\Users\75253\Workspace\hackthon2019\node_modules\next\dist\lib\utils.js:90:31)
+    at _callee3$ (C:\Users\75253\Workspace\hackthon2019\node_modules\next\dist\server\render.js:299:51)
+    at tryCatch (C:\Users\75253\Workspace\hackthon2019\node_modules\next\node_modules\regenerator-runtime\runtime.js:62:40) sourceMapsApplied: true }
+2019-07-13 14:50:48: { TypeError: Cannot read property 'length' of undefined
+    at ProjectDetail.renderProcesses (pages/projects/detail.js:212:0)
+    at ProjectDetail.render (C:\Users\75253\Workspace\hackthon2019\.next\dist\bundles\pages\projects\detail.js:1119:56)
+    at d (C:\Users\75253\Workspace\hackthon2019\node_modules\react-dom\cjs\react-dom-server.node.production.min.js:28:211)
+    at wa (C:\Users\75253\Workspace\hackthon2019\node_modules\react-dom\cjs\react-dom-server.node.production.min.js:28:493)
+    at a.render (C:\Users\75253\Workspace\hackthon2019\node_modules\react-dom\cjs\react-dom-server.node.production.min.js:33:18)
+    at a.read (C:\Users\75253\Workspace\hackthon2019\node_modules\react-dom\cjs\react-dom-server.node.production.min.js:32:243)
+    at renderToString (C:\Users\75253\Workspace\hackthon2019\node_modules\react-dom\cjs\react-dom-server.node.production.min.js:43:6)
+    at Object.renderPage (C:\Users\75253\Workspace\hackthon2019\node_modules\next\dist\server\render.js:277:26)
+    at Function.module.exports.MyDocument.getInitialProps (pages/_document.js:54:0)
+    at _callee$ (C:\Users\75253\Workspace\hackthon2019\node_modules\next\dist\lib\utils.js:111:30)
+    at tryCatch (C:\Users\75253\Workspace\hackthon2019\node_modules\next\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\75253\Workspace\hackthon2019\node_modules\next\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\75253\Workspace\hackthon2019\node_modules\next\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\75253\Workspace\hackthon2019\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:12:30)
+    at _next (C:\Users\75253\Workspace\hackthon2019\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:9)
+    at C:\Users\75253\Workspace\hackthon2019\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:34:7
+    at new Promise (<anonymous>)
+    at new F (C:\Users\75253\Workspace\hackthon2019\node_modules\core-js\library\modules\_export.js:36:28)
+    at C:\Users\75253\Workspace\hackthon2019\node_modules\next\node_modules\@babel\runtime\helpers\asyncToGenerator.js:7:12
+    at loadGetInitialProps (C:\Users\75253\Workspace\hackthon2019\node_modules\next\dist\lib\utils.js:90:31)
+    at _callee3$ (C:\Users\75253\Workspace\hackthon2019\node_modules\next\dist\server\render.js:299:51)
+    at tryCatch (C:\Users\75253\Workspace\hackthon2019\node_modules\next\node_modules\regenerator-runtime\runtime.js:62:40) sourceMapsApplied: true }
+2019-07-13 15:29:08: WARNING: NODE_APP_INSTANCE value of '1' did not match any instance config file names.
+2019-07-13 15:29:08: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 15:29:08: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2019-07-13 15:29:09: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 15:29:09: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-07-13 15:29:09: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 15:29:09: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-07-13 15:29:09: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 15:42:54: WARNING: NODE_APP_INSTANCE value of '1' did not match any instance config file names.
+2019-07-13 15:42:54: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2019-07-13 15:42:54: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 15:42:54: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 15:42:55: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-07-13 15:42:55: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 15:42:55: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-07-13 15:42:55: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 16:21:08: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2019-07-13 16:21:08: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 16:21:08: WARNING: NODE_APP_INSTANCE value of '1' did not match any instance config file names.
+2019-07-13 16:21:08: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 16:21:08: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-07-13 16:21:08: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 16:21:08: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-07-13 16:21:08: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 16:24:42: WARNING: NODE_APP_INSTANCE value of '1' did not match any instance config file names.
+2019-07-13 16:24:42: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 16:24:42: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2019-07-13 16:24:42: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 16:24:43: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-07-13 16:24:43: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 16:24:43: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-07-13 16:24:43: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 16:32:31: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2019-07-13 16:32:31: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 16:32:31: WARNING: NODE_APP_INSTANCE value of '1' did not match any instance config file names.
+2019-07-13 16:32:31: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 16:32:32: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-07-13 16:32:32: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 16:32:32: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-07-13 16:32:32: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 16:40:33: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2019-07-13 16:40:33: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 16:40:33: WARNING: NODE_APP_INSTANCE value of '1' did not match any instance config file names.
+2019-07-13 16:40:33: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 16:40:34: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-07-13 16:40:34: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 16:40:34: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-07-13 16:40:34: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 17:08:22: { Error: Invalid JSON RPC response: ""
+    at Object.InvalidResponse (C:\Users\75253\Workspace\hackthon2019\node_modules\web3-core-helpers\src\errors.js:42:16)
+    at XMLHttpRequest.request.onreadystatechange (C:\Users\75253\Workspace\hackthon2019\node_modules\web3-providers-http\src\index.js:73:32)
+    at XMLHttpRequestEventTarget.dispatchEvent (C:\Users\75253\Workspace\hackthon2019\node_modules\xhr2\lib\xhr2.js:64:18)
+    at XMLHttpRequest._setReadyState (C:\Users\75253\Workspace\hackthon2019\node_modules\xhr2\lib\xhr2.js:354:12)
+    at XMLHttpRequest._onHttpRequestError (C:\Users\75253\Workspace\hackthon2019\node_modules\xhr2\lib\xhr2.js:544:12)
+    at ClientRequest.<anonymous> (C:\Users\75253\Workspace\hackthon2019\node_modules\xhr2\lib\xhr2.js:414:24)
+    at ClientRequest.emit (events.js:182:13)
+    at ClientRequest.EventEmitter.emit (domain.js:441:20)
+    at TLSSocket.socketErrorListener (_http_client.js:392:9)
+    at TLSSocket.emit (events.js:182:13)
+    at TLSSocket.EventEmitter.emit (domain.js:441:20)
+    at emitErrorNT (internal/streams/destroy.js:82:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:50:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19) sourceMapsApplied: true }
+2019-07-13 17:08:22: { Error: Invalid JSON RPC response: ""
+    at Object.InvalidResponse (C:\Users\75253\Workspace\hackthon2019\node_modules\web3-core-helpers\src\errors.js:42:16)
+    at XMLHttpRequest.request.onreadystatechange (C:\Users\75253\Workspace\hackthon2019\node_modules\web3-providers-http\src\index.js:73:32)
+    at XMLHttpRequestEventTarget.dispatchEvent (C:\Users\75253\Workspace\hackthon2019\node_modules\xhr2\lib\xhr2.js:64:18)
+    at XMLHttpRequest._setReadyState (C:\Users\75253\Workspace\hackthon2019\node_modules\xhr2\lib\xhr2.js:354:12)
+    at XMLHttpRequest._onHttpRequestError (C:\Users\75253\Workspace\hackthon2019\node_modules\xhr2\lib\xhr2.js:544:12)
+    at ClientRequest.<anonymous> (C:\Users\75253\Workspace\hackthon2019\node_modules\xhr2\lib\xhr2.js:414:24)
+    at ClientRequest.emit (events.js:182:13)
+    at ClientRequest.EventEmitter.emit (domain.js:441:20)
+    at TLSSocket.socketErrorListener (_http_client.js:392:9)
+    at TLSSocket.emit (events.js:182:13)
+    at TLSSocket.EventEmitter.emit (domain.js:441:20)
+    at emitErrorNT (internal/streams/destroy.js:82:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:50:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19) sourceMapsApplied: true }
+2019-07-13 17:08:22: { Error: Invalid JSON RPC response: ""
+    at Object.InvalidResponse (C:\Users\75253\Workspace\hackthon2019\node_modules\web3-core-helpers\src\errors.js:42:16)
+    at XMLHttpRequest.request.onreadystatechange (C:\Users\75253\Workspace\hackthon2019\node_modules\web3-providers-http\src\index.js:73:32)
+    at XMLHttpRequestEventTarget.dispatchEvent (C:\Users\75253\Workspace\hackthon2019\node_modules\xhr2\lib\xhr2.js:64:18)
+    at XMLHttpRequest._setReadyState (C:\Users\75253\Workspace\hackthon2019\node_modules\xhr2\lib\xhr2.js:354:12)
+    at XMLHttpRequest._onHttpRequestError (C:\Users\75253\Workspace\hackthon2019\node_modules\xhr2\lib\xhr2.js:544:12)
+    at ClientRequest.<anonymous> (C:\Users\75253\Workspace\hackthon2019\node_modules\xhr2\lib\xhr2.js:414:24)
+    at ClientRequest.emit (events.js:182:13)
+    at ClientRequest.EventEmitter.emit (domain.js:441:20)
+    at TLSSocket.socketErrorListener (_http_client.js:392:9)
+    at TLSSocket.emit (events.js:182:13)
+    at TLSSocket.EventEmitter.emit (domain.js:441:20)
+    at emitErrorNT (internal/streams/destroy.js:82:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:50:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19) sourceMapsApplied: true }
+2019-07-13 17:08:22: { Error: Invalid JSON RPC response: ""
+    at Object.InvalidResponse (C:\Users\75253\Workspace\hackthon2019\node_modules\web3-core-helpers\src\errors.js:42:16)
+    at XMLHttpRequest.request.onreadystatechange (C:\Users\75253\Workspace\hackthon2019\node_modules\web3-providers-http\src\index.js:73:32)
+    at XMLHttpRequestEventTarget.dispatchEvent (C:\Users\75253\Workspace\hackthon2019\node_modules\xhr2\lib\xhr2.js:64:18)
+    at XMLHttpRequest._setReadyState (C:\Users\75253\Workspace\hackthon2019\node_modules\xhr2\lib\xhr2.js:354:12)
+    at XMLHttpRequest._onHttpRequestError (C:\Users\75253\Workspace\hackthon2019\node_modules\xhr2\lib\xhr2.js:544:12)
+    at ClientRequest.<anonymous> (C:\Users\75253\Workspace\hackthon2019\node_modules\xhr2\lib\xhr2.js:414:24)
+    at ClientRequest.emit (events.js:182:13)
+    at ClientRequest.EventEmitter.emit (domain.js:441:20)
+    at TLSSocket.socketErrorListener (_http_client.js:392:9)
+    at TLSSocket.emit (events.js:182:13)
+    at TLSSocket.EventEmitter.emit (domain.js:441:20)
+    at emitErrorNT (internal/streams/destroy.js:82:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:50:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19) sourceMapsApplied: true }
+2019-07-13 19:58:56: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2019-07-13 19:58:56: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 19:58:56: WARNING: NODE_APP_INSTANCE value of '1' did not match any instance config file names.
+2019-07-13 19:58:56: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 19:58:57: WARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.
+2019-07-13 19:58:57: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+2019-07-13 19:58:57: WARNING: NODE_APP_INSTANCE value of '3' did not match any instance config file names.
+2019-07-13 19:58:57: WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
