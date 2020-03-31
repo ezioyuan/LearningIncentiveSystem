@@ -25,7 +25,7 @@
     "echarts": "^4.2.1",
     "echarts-for-react": "^2.0.15-beta.0",
     "fs-extra": "^7.0.1",
-    "next": "^6.0.3",
+    "next": "^9.3.2",
     "next-routes": "^1.4.2",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
